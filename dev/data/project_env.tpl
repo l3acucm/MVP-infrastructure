@@ -1,0 +1,13 @@
+STAGING=1
+DOMAIN=${domain}
+POSTGRES_DATABASE_NAME=${postgres_database_name}
+POSTGRES_USERNAME=${postgres_username}
+POSTGRES_PASSWORD=${postgres_password}
+POSTGRES_ENDPOINT=${postgres_endpoint}
+ALLOWED_HOSTS=${a_record}.${domain},lvh.me,django
+REDIS_DOMAIN=redis
+SECRET_KEY=${django_secret_key}
+SENTRY_DSN=${sentry_dsn}
+AWS_ACCESS_KEY=${aws_django_access_key}
+AWS_SECRET_KEY=${aws_django_secret_key}
+AWS_BUCKET_NAME=${aws_bucket_name}

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23672f90-417d-4277-96a9-c0ca163e1ec7" name="Changes" comment="redirect http to https">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/cloudfront.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/cloudfront.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/vigilbot.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/vigilbot.tf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="5jn76or1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pzk1Otuoiel8hqsQugUe31Cjj9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zuber/Projects/MVP-infrastructure/dev/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23672f90-417d-4277-96a9-c0ca163e1ec7" name="Changes" comment="" />
+      <created>1684467081580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684467081580</updated>
+      <workItem from="1684467082664" duration="34237000" />
+      <workItem from="1684732417177" duration="18168000" />
+      <workItem from="1685258605783" duration="636000" />
+      <workItem from="1685269744041" duration="3890000" />
+      <workItem from="1685274368943" duration="56000" />
+      <workItem from="1685274667550" duration="62000" />
+      <workItem from="1685274842287" duration="42000" />
+      <workItem from="1685274949992" duration="107000" />
+      <workItem from="1685275071437" duration="4239000" />
+      <workItem from="1685280730333" duration="240000" />
+      <workItem from="1685282221787" duration="33000" />
+      <workItem from="1685282262220" duration="21915000" />
+      <workItem from="1685427765785" duration="14616000" />
+      <workItem from="1685468944040" duration="246000" />
+      <workItem from="1685469198510" duration="23063000" />
+      <workItem from="1685541935794" duration="372000" />
+      <workItem from="1685542363900" duration="1018000" />
+      <workItem from="1685543767601" duration="1890000" />
+      <workItem from="1685545736068" duration="766000" />
+      <workItem from="1685546698251" duration="455000" />
+      <workItem from="1685547158623" duration="795000" />
+      <workItem from="1685548603831" duration="1542000" />
+      <workItem from="1685551727447" duration="553000" />
+      <workItem from="1685552721203" duration="920000" />
+      <workItem from="1685553817971" duration="968000" />
+      <workItem from="1685592193753" duration="10382000" />
+      <workItem from="1685714304743" duration="1167000" />
+      <workItem from="1685724893502" duration="119000" />
+      <workItem from="1685725297184" duration="187000" />
+      <workItem from="1685725559260" duration="43000" />
+      <workItem from="1685728424477" duration="395000" />
+      <workItem from="1685729779045" duration="186000" />
+      <workItem from="1685729990545" duration="22000" />
+      <workItem from="1685730027977" duration="320000" />
+      <workItem from="1685731098513" duration="7000" />
+      <workItem from="1685731221823" duration="4000" />
+      <workItem from="1685731534616" duration="729000" />
+      <workItem from="1685732617232" duration="800000" />
+      <workItem from="1685773124948" duration="79000" />
+      <workItem from="1685774592525" duration="1239000" />
+      <workItem from="1685775900551" duration="2075000" />
+      <workItem from="1685779091064" duration="887000" />
+      <workItem from="1685780081803" duration="6000" />
+      <workItem from="1685807547670" duration="761000" />
+      <workItem from="1685811776064" duration="81000" />
+      <workItem from="1685815800668" duration="677000" />
+      <workItem from="1685817715690" duration="145000" />
+      <workItem from="1685857902247" duration="783000" />
+      <workItem from="1686226278086" duration="1902000" />
+      <workItem from="1686499023548" duration="67854000" />
+      <workItem from="1686995742086" duration="11792000" />
+      <workItem from="1687107533057" duration="1617000" />
+      <workItem from="1687152966019" duration="3568000" />
+      <workItem from="1687159914844" duration="83000" />
+      <workItem from="1687161501165" duration="3115000" />
+      <workItem from="1687537694885" duration="2007000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1685381763739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685381763739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1685381795191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685381795191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="two authorized keys">
+      <created>1685511021155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685511021155</updated>
+    </task>
+    <task id="LOCAL-00004" summary="label authorized keys">
+      <created>1685512418927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685512418927</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dont print github key">
+      <created>1685512448993</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685512448993</updated>
+    </task>
+    <task id="LOCAL-00006" summary="proxied a record with auto ttl in cloudflare">
+      <created>1685513162915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685513162915</updated>
+    </task>
+    <task id="LOCAL-00007" summary="working backups">
+      <created>1685554780058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685554780058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="forbidden backups and source repo deletion">
+      <created>1685685953521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685685953521</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ci/cd works">
+      <created>1685857950358</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685857950359</updated>
+    </task>
+    <task id="LOCAL-00010" summary="terraformed cloudfront">
+      <created>1686670558773</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686670558773</updated>
+    </task>
+    <task id="LOCAL-00011" summary="s3 backend">
+      <created>1686935117114</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686935117114</updated>
+    </task>
+    <task id="LOCAL-00012" summary="s3 backend">
+      <created>1686935125435</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686935125435</updated>
+    </task>
+    <task id="LOCAL-00013" summary="wts release">
+      <created>1687108535725</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687108535725</updated>
+    </task>
+    <task id="LOCAL-00014" summary="redirect http to https">
+      <created>1687175601302</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687175601302</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.pub" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="two authorized keys" />
+    <MESSAGE value="label authorized keys" />
+    <MESSAGE value="dont print github key" />
+    <MESSAGE value="proxied a record with auto ttl in cloudflare" />
+    <MESSAGE value="working backups" />
+    <MESSAGE value="forbidden backups and source repo deletion" />
+    <MESSAGE value="ci/cd works" />
+    <MESSAGE value="terraformed cloudfront" />
+    <MESSAGE value="s3 backend" />
+    <MESSAGE value="wts release" />
+    <MESSAGE value="redirect http to https" />
+    <option name="LAST_COMMIT_MESSAGE" value="redirect http to https" />
+  </component>
+</project>

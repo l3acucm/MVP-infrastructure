@@ -1,0 +1,108 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/cloudflare/cloudflare" {
+  version     = "4.7.1"
+  constraints = "~> 4.0"
+  hashes = [
+    "h1:Jea91mhYJ4HZl6FDqi8JjcKoZQncRa4x5K0sG2NhMqc=",
+    "zh:04339ad946c29d7c6e9bdcff7220199e7027e357e847756de104df87a62c1b18",
+    "zh:0b4283834dfb24a8b570af50a4f615932495c37e3cc217d40709efb14bd3b879",
+    "zh:0f0c16dd6fb76d3470ea37d7c9bce5a3b8f8f51d7e7b14dc7fb598dda1ce43f4",
+    "zh:34402629ce645d03332623b7d65ee4fb1a36a3ec87dd78653925fca4a60deac3",
+    "zh:44cdf4b6f2d52b144974130e03e1f7d184d6af3d6d1f88322a307a21d32c09c7",
+    "zh:78061d2e470429f42e981b751f407398fa82867e2a7a97aaf7cc4e12ed89e29c",
+    "zh:855036c770803284bfd5ae6eb7edfab9126b431c622ede19cb18fd88d482f6d2",
+    "zh:88748e3a1e3fb388c2de8a4cb400f317f4e9a60bb28d4f3471d315fc17e51d33",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:bd2fba854bc9316e6e6bc8b3b9c56d4b384b3db89e26db550dd0a5fda16812e2",
+    "zh:bd781258b545d863a926d87d605880f78303b5d6d6cbd357c3bd489110595b08",
+    "zh:d600661750ec57f801781a2e3e9f359a74de9e8a4194c12171a6a69b3b22fa34",
+    "zh:dbc8f0c87fd37c3a0ee0be50234f212c0dabcb010430b2a2dcf0d7f4510078bb",
+    "zh:de5dff55677fb61afaad1fa15e446f07afff93f0abacab18cda12e7921f4094f",
+    "zh:fea919b7a6fece7e5606e40e7fb66bfcb084a0fa1243ef7b3131fbcb5c955517",
+  ]
+}
+
+provider "registry.terraform.io/hashicorp/aws" {
+  version     = "5.3.0"
+  constraints = "~> 5.0"
+  hashes = [
+    "h1:3KbfDs6Sd6pDlVTB9wYCxndEWNmTlShb/rBHnr4/+OE=",
+    "zh:001814dcf6b2329de5e2c9223c4f1e95a0f60d6670046015419053b03b3c0712",
+    "zh:3c511a91f53076c3a1117526bee0880b339261f1eb3feecd7854771bfef7890d",
+    "zh:3e6c19e048f06051c9296c7a3236946f37431ce0d84f843585c5f3e8504759d3",
+    "zh:476a3d918782a479166f33418192b522698e39702e8a0aec823682d3ee3082f1",
+    "zh:5dd0d3bff7a7acabeed600dfbbef797e189c4877f65e4b4ed572cb33e454f602",
+    "zh:6627f95a41e30c01b7f7c9e3db1cccba056c5257c36cccfaa0898d526211add2",
+    "zh:663023a4244cf7f7df2b08ab204922f7902eefe9a7b51a2c2def1a7dafe6f55f",
+    "zh:79cb8a22a131b7d2beb331d8443207eed10fdb4b09655048960bd5d59c8bbf3a",
+    "zh:8c2275a0954042cfc44843a6045543744e08bd8cad487f0bc9162cf92a9bcdcc",
+    "zh:9b12af85486a96aedd8d7984b0ff811a4b42e3d88dad1a3fb4c0b580d04fa425",
+    "zh:ad08ae20b9402461af863772a9e4ff5677e14f3fc86d5b148bd4faaaa361f601",
+    "zh:b8b7bd15fc1842aeedc2e5eab03b8357cdb2b9fe3e67dd82ae240be3081bf637",
+    "zh:bdb3858c4c632aad8d5c4bff063f3afb18de51cec3167b3496d5bc5856915301",
+    "zh:f354a433ec8095b06c2701725411ffb73a20ef9b1aa325434e1bb575b5c86d52",
+    "zh:f47e1342883d599f4675dcfdeb9707cdfcfaf53c677f93fd5c410580d4dece13",
+  ]
+}
+
+provider "registry.terraform.io/hashicorp/random" {
+  version = "3.5.1"
+  hashes = [
+    "h1:IL9mSatmwov+e0+++YX2V6uel+dV6bn+fC/cnGDK3Ck=",
+    "zh:04e3fbd610cb52c1017d282531364b9c53ef72b6bc533acb2a90671957324a64",
+    "zh:119197103301ebaf7efb91df8f0b6e0dd31e6ff943d231af35ee1831c599188d",
+    "zh:4d2b219d09abf3b1bb4df93d399ed156cadd61f44ad3baf5cf2954df2fba0831",
+    "zh:6130bdde527587bbe2dcaa7150363e96dbc5250ea20154176d82bc69df5d4ce3",
+    "zh:6cc326cd4000f724d3086ee05587e7710f032f94fc9af35e96a386a1c6f2214f",
+    "zh:78d5eefdd9e494defcb3c68d282b8f96630502cac21d1ea161f53cfe9bb483b3",
+    "zh:b6d88e1d28cf2dfa24e9fdcc3efc77adcdc1c3c3b5c7ce503a423efbdd6de57b",
+    "zh:ba74c592622ecbcef9dc2a4d81ed321c4e44cddf7da799faa324da9bf52a22b2",
+    "zh:c7c5cde98fe4ef1143bd1b3ec5dc04baf0d4cc3ca2c5c7d40d17c0e9b2076865",
+    "zh:dac4bad52c940cd0dfc27893507c1e92393846b024c5a9db159a93c534a3da03",
+    "zh:de8febe2a2acd9ac454b844a4106ed295ae9520ef54dc8ed2faf29f12716b602",
+    "zh:eab0d0495e7e711cca367f7d4df6e322e6c562fc52151ec931176115b83ed014",
+  ]
+}
+
+provider "registry.terraform.io/hashicorp/tls" {
+  version = "4.0.4"
+  hashes = [
+    "h1:GZcFizg5ZT2VrpwvxGBHQ/hO9r6g0vYdQqx3bFD3anY=",
+    "zh:23671ed83e1fcf79745534841e10291bbf34046b27d6e68a5d0aab77206f4a55",
+    "zh:45292421211ffd9e8e3eb3655677700e3c5047f71d8f7650d2ce30242335f848",
+    "zh:59fedb519f4433c0fdb1d58b27c210b27415fddd0cd73c5312530b4309c088be",
+    "zh:5a8eec2409a9ff7cd0758a9d818c74bcba92a240e6c5e54b99df68fff312bbd5",
+    "zh:5e6a4b39f3171f53292ab88058a59e64825f2b842760a4869e64dc1dc093d1fe",
+    "zh:810547d0bf9311d21c81cc306126d3547e7bd3f194fc295836acf164b9f8424e",
+    "zh:824a5f3617624243bed0259d7dd37d76017097dc3193dac669be342b90b2ab48",
+    "zh:9361ccc7048be5dcbc2fafe2d8216939765b3160bd52734f7a9fd917a39ecbd8",
+    "zh:aa02ea625aaf672e649296bce7580f62d724268189fe9ad7c1b36bb0fa12fa60",
+    "zh:c71b4cd40d6ec7815dfeefd57d88bc592c0c42f5e5858dcc88245d371b4b8b1e",
+    "zh:dabcd52f36b43d250a3d71ad7abfa07b5622c69068d989e60b79b2bb4f220316",
+    "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+  ]
+}
+
+provider "registry.terraform.io/integrations/github" {
+  version     = "5.26.0"
+  constraints = "~> 5.0"
+  hashes = [
+    "h1:67ff42LPoQR56CovBPWqChNa6o8offxInvJo8gO7/is=",
+    "zh:09236b5396ec086b3d6c06cfe4160185ef0364d2f99deea00576d3ad5864db49",
+    "zh:1335b570cc3ddade75bac3fe691f26d159b5d2cfc1a96a23bdef6a6dbf86b090",
+    "zh:157659e5f0d43109d0ac523c3e3abdd35463fef089dab72ecb291314a26e7731",
+    "zh:235aab664e2633ad597a0add45547591bc265610b80c554903b76f6094b5ffc9",
+    "zh:4a40582adf31bacddd37ed24d6224adc859bdddf9d8b9800a3da33897d23fe40",
+    "zh:4b0ae10366e57e40221a83135d5a918d8e0bc99fcc94ee4ceb045257ac8e5871",
+    "zh:5b7046eb963572ac7f2c1e2f3fb831645206c931c94fa465e24975c5f6c2441a",
+    "zh:5f362404ecbbde9fd087e0fdf766a619319b666dd4118116b946fd32b11bb62c",
+    "zh:75ffafe88fa3ae1117c57aca8237ca44ef871956484b7924d0114907a2303e15",
+    "zh:99ae45c65008d545f79cdecd18c17fc2a58e6f392691afd7ce9cbdda2cd63622",
+    "zh:bd1ac24942aba812866f1240bf5a0c2ec075dae7c564146bcbf29bac4eaaf4d1",
+    "zh:d5ccd9e2dc2ef2d13ffd884343b7a3972ee5ba3986f72d65c577c32fc460af34",
+    "zh:ef87cd75e01df472a44922a8a4ff03d7d759fa5d2aebe61f9b2f05c796734d1b",
+    "zh:ff3d11577c594d244015d5a708b7cb2c91058c3ad075c3e78c6f8b9fb07e8244",
+  ]
+}

@@ -24,7 +24,6 @@ resource "aws_instance" "vigil_bot_ec2_instance" {
         postgres_password      = var.postgres_password,
         postgres_endpoint      = aws_db_instance.rds_database.address,
         sentry_dsn             = var.vigil_bot_sentry_dsn
-        telegram_token         = var.vigil_bot_telegram_token
       }
     )
     connection {

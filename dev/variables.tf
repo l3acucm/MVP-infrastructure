@@ -85,11 +85,6 @@ variable "vigil_bot_sentry_dsn" {
   type        = string
 }
 
-variable "vigil_bot_telegram_token" {
-  description = "Telegram token for vigil bot"
-  type        = string
-}
-
 variable "vigil_bot_docker_image_name" {
   description = "Vigil bot docker image name"
   type        = string
